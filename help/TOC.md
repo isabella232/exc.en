@@ -2,7 +2,7 @@
 cloud: experience-cloud
 product: adobe Experience Cloud
 audience: end-user
-user-guide: Experience Cloud Library User Guide
+user-guide-title: Experience Cloud Library Help
 ---
 
 # ExC Help {#exc-help}
