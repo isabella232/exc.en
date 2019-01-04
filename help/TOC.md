@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Experience Cloud Library Help
 ---
 
-# ExC Help {#exc-help}
+# Experience Cloud Library Help {#using}
 
-+ [Adobe Experience Cloud Library](c-library-about/c-library-about.md)
++ [Adobe Experience Cloud Library](c-library-about/overview.md)
 + [Access the Adobe Experience Cloud Library](c-library-about/c-access-the-library.md)
 + Import and Upload {#import-upload}
    + [Import and Upload Files](c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
