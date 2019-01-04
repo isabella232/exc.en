@@ -16,7 +16,7 @@ user-guide: ExC User Guide
       + [Change Dropbox or Creative Cloud Accounts](c-library-about/c-importing-and-uploading/c-change-dropbox-or-creative-cloud-accounts.md)
       + [Upload Asset from Device](c-library-about/c-importing-and-uploading/c-upload-asset-from-device.md)
       + [Cancel an Upload](c-library-about/c-importing-and-uploading/c-cancel-an-upload.md)
-   Assets {#assets}
+   + Assets {#assets}
       + [Assets Overview](c-library-about/c-assets/c-assets.md)
       + [Search for Assets](c-library-about/c-assets/c-search-for-assets.md)
       + [Filter Assets](c-library-about/c-assets/c-filter-assets.md)
