@@ -1,16 +1,18 @@
 ---
 cloud: experience-cloud
-product: Experience Cloud
-solution-title: Experience Cloud Framework
+product: ExC
+solution-title: ExC
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-solution-icon: help/interface/assets/experience-cloud-logo-24.png
+solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.en
-index: n
+git-repo: https://git.corp.adobe.com/AdobeDocs/exc.en
+index: no
 ---
+
+<!-- We need better links for Getting Started and Tutorials. We can do this after we hit stage -->
 
 # Metadata for internal use
 
@@ -27,6 +29,7 @@ The metadata.md file includes repo-level metadata that passes through to user gu
 | tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
 | mini-toc-levels | Determines the number of heading levels that appear in right rail. default is 2 |
 | git-repo | Specifies the location of the collaboration repo. Use the github.com mirror for public-facing docs |
+| index | set index=no for soft launch |
 
 In TOC.md file
 
