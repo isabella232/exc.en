@@ -1,11 +1,11 @@
 ---
 cloud: experience-cloud
-product: adobe
+product: adobe Experience Cloud
 archtype: end-user
-user-guide: null
+user-guide: ExC User Guide
 ---
 
-# Table of Contents {#table-of-contents}
+# ExC Help {#exc-help}
 
 + [Adobe Experience Cloud Library](c-library-about/c-library-about.md)
    + [Access the Adobe Experience Cloud Library](c-library-about/c-access-the-library.md)
