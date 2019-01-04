@@ -5,9 +5,7 @@ seo-title: Edit an Image
 solution: Experience Manager
 title: Edit an Image
 uuid: 0fc38989-fcce-4177-95af-2488ef0a3c5c
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Edit an Image{#edit-an-image}

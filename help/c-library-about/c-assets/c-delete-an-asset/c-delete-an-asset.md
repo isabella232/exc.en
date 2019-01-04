@@ -5,9 +5,7 @@ seo-title: Trash an Asset
 solution: Experience Manager
 title: Trash an Asset
 uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Trash an Asset{#trash-an-asset}

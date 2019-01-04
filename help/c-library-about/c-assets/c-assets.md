@@ -5,9 +5,7 @@ seo-title: Assets
 solution: Experience Manager
 title: Assets
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Assets{#assets}

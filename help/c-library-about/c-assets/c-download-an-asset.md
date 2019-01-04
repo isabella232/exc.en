@@ -5,9 +5,7 @@ seo-title: Download an Asset
 solution: Experience Manager
 title: Download an Asset
 uuid: f38ecdc5-e0de-46f5-bfbc-fb45cabedac3
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Download an Asset{#download-an-asset}

@@ -5,9 +5,7 @@ seo-title: Revert to an Older Version of an Asset
 solution: Experience Manager
 title: Revert to an Older Version of an Asset
 uuid: 57922668-2ad8-4670-a02b-0086151ac539
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Revert to an Older Version of an Asset{#revert-to-an-older-version-of-an-asset}

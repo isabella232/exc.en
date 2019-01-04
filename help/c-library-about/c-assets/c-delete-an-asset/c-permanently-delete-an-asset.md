@@ -5,9 +5,7 @@ seo-title: Permanently Delete a Trashed Asset
 solution: Experience Manager
 title: Permanently Delete a Trashed Asset
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Permanently Delete a Trashed Asset{#permanently-delete-a-trashed-asset}

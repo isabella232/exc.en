@@ -5,9 +5,7 @@ seo-title: Replace an Asset
 solution: Experience Manager
 title: Replace an Asset
 uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Replace an Asset{#replace-an-asset}

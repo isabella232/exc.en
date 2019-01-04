@@ -5,9 +5,7 @@ seo-title: Restore a Trashed Asset
 solution: Experience Manager
 title: Restore a Trashed Asset
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Restore a Trashed Asset{#restore-a-trashed-asset}

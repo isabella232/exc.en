@@ -5,9 +5,7 @@ seo-title: Search for Assets
 solution: Experience Manager
 title: Search for Assets
 uuid: 882ff4db-5bca-456c-888c-220c70eadce7
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Search for Assets{#search-for-assets}

@@ -5,9 +5,7 @@ seo-title: Filter Assets
 solution: Experience Manager
 title: Filter Assets
 uuid: 8a707d6d-1905-4934-b35b-034a337b17f7
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Filter Assets{#filter-assets}

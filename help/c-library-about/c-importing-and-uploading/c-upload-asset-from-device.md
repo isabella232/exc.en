@@ -5,9 +5,7 @@ seo-title: Upload Asset from Device
 solution: Experience Manager
 title: Upload Asset from Device
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Upload Asset from Device{#upload-asset-from-device}

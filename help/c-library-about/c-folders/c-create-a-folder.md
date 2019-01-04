@@ -5,9 +5,7 @@ seo-title: Create a Folder
 solution: Experience Manager
 title: Create a Folder
 uuid: 6651be0e-262a-4f9c-b0c6-adec3a4e2178
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Create a Folder{#create-a-folder}

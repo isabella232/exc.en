@@ -5,9 +5,7 @@ seo-title: View Previous Versions of an Asset
 solution: Experience Manager
 title: View Previous Versions of an Asset
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-index: y
-internal: n
-snippet: y
+
 ---
 
 # View Previous Versions of an Asset{#view-previous-versions-of-an-asset}

@@ -5,9 +5,7 @@ seo-title: Trash a Folder
 solution: Experience Manager
 title: Trash a Folder
 uuid: 0e1c5ef2-188e-4012-92db-900b9d5732cf
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Trash a Folder{#trash-a-folder}

@@ -5,9 +5,7 @@ seo-title: Import Creative Cloud Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: Import Creative Cloud Files into the Adobe Experience Cloud Library
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Import Creative Cloud Files into the Adobe Experience Cloud Library{#import-creative-cloud-files-into-the-adobe-experience-cloud-library}

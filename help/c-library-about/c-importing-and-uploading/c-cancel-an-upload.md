@@ -5,9 +5,7 @@ seo-title: Cancel an Upload
 solution: Experience Manager
 title: Cancel an Upload
 uuid: 29cd1c48-0ab5-46cf-81bf-50571e3078f3
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Cancel an Upload{#cancel-an-upload}

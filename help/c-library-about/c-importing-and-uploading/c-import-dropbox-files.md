@@ -5,9 +5,7 @@ seo-title: Import Dropbox Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: Import Dropbox Files into the Adobe Experience Cloud Library
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Import Dropbox Files into the Adobe Experience Cloud Library{#import-dropbox-files-into-the-adobe-experience-cloud-library}
