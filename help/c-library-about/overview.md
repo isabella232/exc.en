@@ -12,3 +12,13 @@ uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 
 The Adobe Experience Cloud Library is a universal and centralized experience for storing, finding, and selecting assets across Adobe Experience Cloud Solutions.
 
+Experience Cloud Library is used in the following solutions:
+
+[Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign)
+
+## Popular Topics
+
+* [Use Library to Add Images in Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign/designing/addimages.html)
+* [Import content](/help/c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
+* Find content with [search] (/help/c-library-about/c-assets/c-search-for-assets.md) or [filtering] (/help/c-library-about/c-assets/c-filter-assets.md)
+* [See information about an asset](/help/c-library-about/c-assets/c-view-detailed-information-for-an-asset.md)
