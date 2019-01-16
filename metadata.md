@@ -1,13 +1,13 @@
 ---
 cloud: experience-cloud
 product: ExC
-solution-title: ExC
+solution-title: Experience Cloud And Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
+tutorials-title: Campaign Standard
+tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.en
 index: no
 ---
