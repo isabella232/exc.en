@@ -8,7 +8,7 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/exc.en
+git-repo: https://github.com/AdobeDocs/exc.en
 index: no
 ---
 
