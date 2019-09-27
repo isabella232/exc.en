@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: ExC
+product: Learn & Support
 solution-title: Experience Cloud Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
